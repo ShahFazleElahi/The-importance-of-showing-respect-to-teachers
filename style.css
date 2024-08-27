@@ -1,0 +1,42 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #EDF2FA;
+    font-family: "Tiro Bangla", serif;    
+}
+
+h1{
+    font-size: 80%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+section{
+    background-color:white;
+    padding: 10px;
+    margin: 10px;
+}
+
+div{
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+}
+
+h2{
+    font-size: 80%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+}
+
+p{
+    font-size: 60%;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: start;
+}
